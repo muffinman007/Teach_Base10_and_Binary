@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\segoeUI.spritefont</Source>
+      <Name>Fonts\segoeUI</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Debug\Content\Fonts\segoeUI.xnb</Output>
+      <Time>2014-02-14T14:51:18.6476121-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\smallSegoeUI.spritefont</Source>
+      <Name>Fonts\smallSegoeUI</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Debug\Content\Fonts\smallSegoeUI.xnb</Output>
+      <Time>2014-02-14T15:50:35.7784132-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\theSystemBg.jpg</Source>
+      <Name>Textures\theSystemBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Debug\Content\Textures\theSystemBg.xnb</Output>
+      <Time>2014-02-16T21:23:03.3314994-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\checkBox.png</Source>
+      <Name>Textures\checkBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Debug\Content\Textures\checkBox.xnb</Output>
+      <Time>2014-02-14T15:37:35.8926868-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\inputBox.png</Source>
+      <Name>Textures\inputBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Debug\Content\Textures\inputBox.xnb</Output>
+      <Time>2014-02-15T23:04:06.8992743-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\plusSign.png</Source>
+      <Name>Textures\plusSign</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Debug\Content\Textures\plusSign.xnb</Output>
+      <Time>2014-02-21T14:10:26.0791141-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\redCursor.png</Source>
+      <Name>Textures\redCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Debug\Content\Textures\redCursor.xnb</Output>
+      <Time>2014-02-18T20:39:31.8691062-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\blackLine.png</Source>
+      <Name>Textures\blackLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Debug\Content\Textures\blackLine.xnb</Output>
+      <Time>2014-02-18T22:54:06.7782305-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\onOffSwitch.png</Source>
+      <Name>Textures\onOffSwitch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Debug\Content\Textures\onOffSwitch.xnb</Output>
+      <Time>2014-02-19T16:38:54.6201834-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystemContent\</RootDirectory>
+      <LoggerRootDirectory>Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\</LoggerRootDirectory>
+      <IntermediateDirectory>Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystemContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-01-14T08:30:06.77981-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

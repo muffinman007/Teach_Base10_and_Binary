@@ -1,0 +1,14 @@
+Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Release\Content\Fonts\segoeUI.xnb
+Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Release\Content\Fonts\smallSegoeUI.xnb
+Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Release\Content\Textures\theSystemBg.xnb
+Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Release\Content\Textures\checkBox.xnb
+Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Release\Content\Textures\inputBox.xnb
+Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Release\Content\Textures\plusSign.xnb
+Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Release\Content\Textures\redCursor.xnb
+Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Release\Content\Textures\blackLine.xnb
+Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Release\Content\Textures\onOffSwitch.xnb
+Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Release\Teach_BaseNumberSystem.exe
+Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\bin\x86\Release\Teach_BaseNumberSystem.pdb
+Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\obj\x86\Release\Teach_BaseNumberSystem.exe
+Z:\XNA dev\Teach_BaseNumberSystem\Teach_BaseNumberSystem\Teach_BaseNumberSystem\obj\x86\Release\Teach_BaseNumberSystem.pdb
